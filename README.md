@@ -1,5 +1,5 @@
 # CMPUT 291 - Lab 1 Readme file
 Name: Angelo Kucluoi
 CCID: kucluoi
-Lecture: Rafiei, Davood
+Lecture: A3
 Lab: D03
